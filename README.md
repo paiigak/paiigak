@@ -1,6 +1,8 @@
 ### Hi there 👋
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=paiigak&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
 **paiigak/paiigak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
